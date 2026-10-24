@@ -5,3 +5,4 @@ langchain-core
 streamlit
 tiktoken
 python-dotenv
+google-genai
