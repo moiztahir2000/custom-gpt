@@ -1,8 +1,9 @@
+streamlit
+google-genai
+ddgs
+python-dotenv
 openai
 langchain
 langchain-openai
 langchain-core
-streamlit
 tiktoken
-python-dotenv
-google-genai
